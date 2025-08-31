@@ -57,12 +57,13 @@ Keep it cool.
 </div>
 <br>
 
+<!--
 ## 📊 Activity
 | General         | Contributions |
 |--------------|:-----:|
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=crypto-superdev&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" />  |   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=crypto-superdev&theme=aura_dark&hide_border=false" /> | 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
 
 
   
